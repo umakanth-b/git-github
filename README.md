@@ -1,2 +1,2 @@
 # git-github
-Practice
+This is a learning purpose
